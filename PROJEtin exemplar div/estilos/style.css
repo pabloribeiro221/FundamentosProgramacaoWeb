@@ -1,0 +1,67 @@
+div{
+    width: 200px;
+    height:300px;
+}
+.divSticky{
+    background-color: aqua;
+    position: sticky;
+    top: 0px;
+    left: 400px;
+}
+.divRelative{
+    background-color: blue;
+    position: relative;
+    top: 120px;
+    left: 300px;
+
+}
+.divFixed{
+    background-color: chocolate;
+    position: fixed;
+    top: 200px;
+    left: 200px;
+}
+.divStatic{
+    background-color: green;
+    position: static;
+    top: 200px;
+    left: 200px;
+}
+.divAbsolute{
+    background-color: grey;
+    position: absolute;
+    top: 100px;
+    left: 600px;
+}
+.divAlignCenter{
+    background-color: yellow;
+    margin: 0 auto;
+    top: 0px;
+}
+.divAlignRight{
+    background-color: white;
+    float: right;
+}
+.divAlignLeft{
+    background-color: violet;
+    float: left;
+}
+.divMenu{
+    background-color: white;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 50px;
+}
+.logoRonielson{
+    height: 50px;
+    }
+.tituloRony{
+ position: fixed;
+ top: 10px;
+ left: 60px;  
+ font-family: Arial, Helvetica, sans-serif;
+ font-weight: bold;
+ width: auto; 
+}
