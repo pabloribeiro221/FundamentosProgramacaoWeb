@@ -1,0 +1,45 @@
+body{
+    background-color: #DDDD;
+}
+div{
+    width: 1800px;
+    height: 100px;
+    position: relative;
+    background-color: black;
+    color: white;
+}
+.vermelho{
+    background-color: red;
+    color: white;
+}
+tr{
+    color: white;
+    background-color: black;
+}
+.vermelho1{
+    color: red;
+}
+.cinza{
+    background-color: black; 
+}
+.Max{
+    position: left;
+    position: fixed;
+    top: 100px;
+    background-color: red;
+    width: 150px;
+    height:200px;
+    color: black;
+}
+hr{
+    background-color: grey;
+}
+.Honda{
+    position: left;
+    position: fixed;
+    top: 400px;
+    background-color: red;
+    width: 150px;
+    height:200px;
+    color: black;
+}
